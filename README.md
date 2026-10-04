@@ -50,3 +50,11 @@ Kortix is the recommendation here: an open-source system is the one you own. Per
 - [Evaluation FAQ](docs/faq.md)
 
 Ready to try it? [Get started with open-source Kortix](https://kortix.com). The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+
+## Further reading on opensourceperplexitycomputer.com
+
+The site expands on this repository's open-source Perplexity Computer setup with a project comparison and the self-hosting steps the README leaves out.
+
+- The site's source-linked rundown of the open-source Perplexity Computer alternatives is at the [comparison of open-source Perplexity Computer alternatives](https://opensourceperplexitycomputer.com/alternatives.html).
+- Ownership, model choice and deployment are the three dimensions of the [Kortix vs Perplexity Computer side-by-side](https://opensourceperplexitycomputer.com/kortix-vs-perplexity-computer.html).
+- Taking the owner-controlled worker onto a VPS or on-prem machine is covered in the [self-hosting walkthrough](https://opensourceperplexitycomputer.com/self-hosting.html).
