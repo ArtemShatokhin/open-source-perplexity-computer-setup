@@ -1,0 +1,23 @@
+# kortix.yaml — the project config. Kortix is the open-source AI Management
+# System: edit this file, then `kortix ship`. Docs: https://kortix.com/docs
+
+machine:
+  image: default
+
+agents:
+  setup-guide:
+    role: Platform
+    description: Stands up and validates a self-hosted Kortix project on the team's own infrastructure.
+    model: auto
+    skills: [self-host-setup]
+    permissions:
+      github: allow
+      shell: ask
+
+skills:
+  self-host-setup:
+    path: skills/self-host-setup.md
+
+connectors:
+  github:
+    scope: repo
