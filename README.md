@@ -1,6 +1,6 @@
-# Open-source Perplexity Computer alternative: self-host the AI worker you own
+# Open-source Perplexity Computer alternative: self-host the general-purpose worker you own
 
-Kortix is the open-source AI Management System, and this repository is a setup and self-hosting guide for teams that want a Perplexity Computer-style general-purpose worker they own instead of rent.
+Kortix is open source. It is the AI Operating System, and this repository is a setup and self-hosting guide for teams that want a Perplexity Computer-style general-purpose worker they own instead of rent.
 
 Perplexity Computer is a capable cloud agent, and Perplexity's own pages document it as a hosted product for Pro and Max subscribers. This repo covers the other path: the same category of work, running on your infrastructure, with any model and your own keys. The code is Kortix; this is the setup guide around it. For the full head-to-head, read the [Kortix and Perplexity Computer comparison](https://opensourceperplexitycomputer.com).
 
@@ -53,8 +53,9 @@ Ready to try it? [Get started with open-source Kortix](https://kortix.com). The 
 
 ## Further reading on opensourceperplexitycomputer.com
 
-The site expands on this repository's open-source Perplexity Computer setup with a project comparison and the self-hosting steps the README leaves out.
+The site expands on this repository's open-source Perplexity Computer setup with a project comparison, the pricing, and the self-hosting steps the README leaves out.
 
-- The site's source-linked rundown of the open-source Perplexity Computer alternatives is at the [comparison of open-source Perplexity Computer alternatives](https://opensourceperplexitycomputer.com/alternatives.html).
-- Ownership, model choice and deployment are the three dimensions of the [Kortix vs Perplexity Computer side-by-side](https://opensourceperplexitycomputer.com/kortix-vs-perplexity-computer.html).
-- Taking the owner-controlled worker onto a VPS or on-prem machine is covered in the [self-hosting walkthrough](https://opensourceperplexitycomputer.com/self-hosting.html).
+- The site's source-linked rundown of the open-source Perplexity Computer alternatives is at the [comparison of open-source Perplexity Computer alternatives](https://opensourceperplexitycomputer.com/alternatives).
+- Ownership, model choice and deployment are the three dimensions of the [Kortix vs Perplexity Computer side-by-side](https://opensourceperplexitycomputer.com/kortix-vs-perplexity-computer).
+- Perplexity Computer's subscription and credit costs, set beside what a self-hosted Kortix seat costs, are broken down in the [Perplexity Computer pricing rundown](https://opensourceperplexitycomputer.com/perplexity-computer-pricing).
+- Taking the owner-controlled worker onto a VPS or on-prem machine is covered in the [self-hosting walkthrough](https://opensourceperplexitycomputer.com/self-hosting).
