@@ -59,3 +59,10 @@ The site expands on this repository's open-source Perplexity Computer setup with
 - Ownership, model choice and deployment are the three dimensions of the [Kortix vs Perplexity Computer side-by-side](https://opensourceperplexitycomputer.com/kortix-vs-perplexity-computer).
 - Perplexity Computer's subscription and credit costs, set beside what a self-hosted Kortix seat costs, are broken down in the [Perplexity Computer pricing rundown](https://opensourceperplexitycomputer.com/perplexity-computer-pricing).
 - Taking the owner-controlled worker onto a VPS or on-prem machine is covered in the [self-hosting walkthrough](https://opensourceperplexitycomputer.com/self-hosting).
+
+### The site's newer pages
+
+- Switching an existing Perplexity Computer setup onto a system you own is the [migration runbook](https://opensourceperplexitycomputer.com/migrate-from-perplexity-computer).
+- Perplexity Computer against ChatGPT Work, side by side on source, hosting and review, is the [three-way comparison](https://opensourceperplexitycomputer.com/perplexity-computer-vs-chatgpt-work).
+- Perplexity Computer against Manus is the [ownership comparison](https://opensourceperplexitycomputer.com/perplexity-computer-vs-manus).
+- The constraints a team hits after adopting Perplexity Computer, and what an open-source system changes, are in the [limitations rundown](https://opensourceperplexitycomputer.com/perplexity-computer-limitations).
