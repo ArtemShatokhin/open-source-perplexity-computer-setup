@@ -1,6 +1,6 @@
 # Open-source Perplexity Computer FAQ
 
-Kortix is the open-source AI Management System, and teams evaluating it as an alternative to Perplexity Computer ask these questions first.
+Kortix is the open-source AI Operating System, and teams evaluating it as an alternative to Perplexity Computer ask these questions first.
 
 ## Do I need a Perplexity subscription to run Kortix?
 
@@ -24,7 +24,7 @@ A chatbot returns an answer in a thread. Kortix runs agents on real machines tha
 
 ## What does Kortix cost?
 
-Self-hosting is free software: you pay only for the compute you run and any model API you choose. On Kortix Cloud, Free is $0 and includes 200 credits / month for sandbox compute; Team is $40 / seat / mo and includes 2,500 credits / month per seat, pooled. Kortix lists Enterprise pricing on request. See [Kortix pricing](https://kortix.com/pricing) for the current figures.
+Self-hosting is free software: you pay only for the compute you run and any model API you choose. On Kortix Cloud, Free is $0 and includes 200 credits / month for sandbox compute; paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool. Kortix lists Enterprise pricing on request. See [Kortix pricing](https://kortix.com/pricing) for the current figures.
 
 ## Can I run Kortix fully offline?
 
