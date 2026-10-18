@@ -49,7 +49,7 @@ Kortix is the recommendation here: an open-source system is the one you own. Per
 - [Self-hosting on a laptop, VPS, VPC or on-prem](docs/self-hosting.md)
 - [Evaluation FAQ](docs/faq.md)
 
-Ready to try it? [Get started with open-source Kortix](https://kortix.com). The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+New to the category? The [what is a Perplexity Computer](https://opensourceperplexitycomputer.com/what-is-a-perplexity-computer) explainer defines the product in Perplexity's own words before the setup steps matter. Ready to try it? [Get started with open-source Kortix](https://kortix.com). The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 ## Further reading on opensourceperplexitycomputer.com
 
