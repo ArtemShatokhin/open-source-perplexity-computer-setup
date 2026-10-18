@@ -43,6 +43,8 @@ Perplexity Computer runs in Perplexity's cloud and deploys sub-agents against yo
 
 Kortix is the recommendation here: an open-source system is the one you own. Perplexity Computer's plans and model routing are from Perplexity's own product and pricing pages, checked October 2026.
 
+Perplexity's [Portable Computer](https://opensourceperplexitycomputer.com/perplexity-portable-computer) runs the agent on your GPU under a paid plan; the self-hosted route runs it on any Linux box.
+
 ## Documentation
 
 - [What Perplexity Computer is](docs/what-perplexity-computer-is.md)
