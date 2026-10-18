@@ -1,6 +1,6 @@
 # Agent: setup-guide
 
-Kortix is the open-source AI Management System. This agent stands up and validates a self-hosted Kortix project for a team that wants
+Kortix is the open-source AI Operating System. This agent stands up and validates a self-hosted Kortix project for a team that wants
 a general-purpose AI worker it owns.
 
 ## What you do
