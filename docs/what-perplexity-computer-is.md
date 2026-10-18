@@ -20,7 +20,7 @@ Perplexity runs the compute for Perplexity Computer in its own cloud. Its pages 
 
 ## Where a self-hostable, model-agnostic alternative differs
 
-Kortix is the open-source AI Management System. Agents, skills, company memory, connector configuration and triggers live in one git repo you own, and each session runs an agent on an isolated Linux machine. Kortix self-hosts on a laptop, a VPS, your VPC or an on-prem network, or runs on Kortix Cloud.
+Kortix is the open-source AI Operating System. Agents, skills, company memory, connector configuration and triggers live in one git repo you own, and each session runs an agent on an isolated Linux machine. Kortix self-hosts on a laptop, a VPS, your VPC or an on-prem network, or runs on Kortix Cloud.
 
 The difference is ownership of the system around the worker. Perplexity Computer keeps its configuration, model routing and orchestration inside Perplexity's product. Kortix keeps the equivalent pieces as files in a repo you can grep, diff and roll back, so the company system is portable.
 
