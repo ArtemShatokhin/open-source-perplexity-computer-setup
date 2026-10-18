@@ -1,6 +1,6 @@
 # Self-hosting open-source Kortix on a laptop, VPS, VPC or on-prem
 
-Kortix is the open-source AI Management System, and you can run the whole platform on hardware you control: a laptop for evaluation, a VPS, your own VPC or an on-prem host. The install needs the CLI, DNS records for your domain and a sandbox provider key, and the backup paths matter once you go past evaluation.
+Kortix is the open-source AI Operating System, and you can run the whole platform on hardware you control: a laptop for evaluation, a VPS, your own VPC or an on-prem host. The install needs the CLI, DNS records for your domain and a sandbox provider key, and the backup paths matter once you go past evaluation.
 
 ## What self-hosting runs
 
@@ -65,6 +65,6 @@ Kortix has no separate backup system. Each instance stores its data under `~/.co
 
 ## Licence
 
-Kortix is open source (Elastic License 2.0) — self-host, read and modify the code. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is open source — self-host, read and modify the code. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 To start with the managed cloud instead, [Get started with open-source Kortix](https://kortix.com).
