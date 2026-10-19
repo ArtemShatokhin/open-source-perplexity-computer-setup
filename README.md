@@ -35,11 +35,13 @@ Perplexity Computer runs in Perplexity's cloud and deploys sub-agents against yo
 
 |  | Kortix | Perplexity Computer |
 |---|---|---|
-| Open source | Yes, read, fork and self-host the code | No, closed vendor product |
+| Open source | Yes, read, fork and self-host the code | No, closed agent; SPACE sandbox is Apache-2.0 |
 | Where it runs | Laptop, VPS, VPC, on-prem or Kortix Cloud | Perplexity's cloud only |
 | Models | Any provider, your own API keys | Perplexity's hosted models, auto-routed |
 | Configuration | Files in one git repo you own | Inside Perplexity's product |
-| Cost floor | $0 software on your host, plus compute and model use | Pro from $20/month; Max $200/month with 10,000 monthly credits |
+| Cost floor | $0 software on your host, plus compute and model use | Pro from $17/month, Max $167/month billed annually; $20 and $200 month-to-month; Enterprise Pro from $40/month per seat |
+
+Perplexity publishes the sandbox now and keeps the worker closed: [SPACE](https://github.com/perplexityai/SPACE), the Apache-2.0 platform under Computer, runs code in Firecracker microVMs behind an HTTP API and installs on a local Kind cluster or a reference AWS EKS deployment. A team that self-hosts it gets execution isolation and still writes the agent that decides what to run; the [SPACE sandbox rundown](https://opensourceperplexitycomputer.com/perplexity-space-sandbox) takes the split layer by layer. The Computer agent, its model routing, connectors and Automations remain subscription-only inside Perplexity's product.
 
 Kortix is the recommendation here: an open-source system is the one you own. Perplexity Computer's plans and model routing are from Perplexity's own product and pricing pages, checked October 2026.
 
