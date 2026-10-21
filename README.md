@@ -70,3 +70,13 @@ The site expands on this repository's open-source Perplexity Computer setup with
 - Perplexity Computer against ChatGPT Work, side by side on source, hosting and review, is the [three-way comparison](https://opensourceperplexitycomputer.com/perplexity-computer-vs-chatgpt-work).
 - Perplexity Computer against Manus is the [ownership comparison](https://opensourceperplexitycomputer.com/perplexity-computer-vs-manus).
 - The constraints a team hits after adopting Perplexity Computer, and what an open-source system changes, are in the [limitations rundown](https://opensourceperplexitycomputer.com/perplexity-computer-limitations).
+
+### After the quickstart: the operating pages
+
+Five pages cover the weeks after the first `kortix ship`: access, schedules, hardware, the sandbox layer, and what a finished run leaves behind.
+
+- [Perplexity Computer connectors](https://opensourceperplexitycomputer.com/perplexity-computer-connectors): which apps Perplexity connects, how the OAuth grant is held, and where it gets revoked.
+- [Automation on a schedule](https://opensourceperplexitycomputer.com/perplexity-computer-automation): the dashboard's Scheduled Tasks set against a trigger block committed to `kortix.yaml`.
+- [The Portable Computer route](https://opensourceperplexitycomputer.com/perplexity-portable-computer): the agent on your own GPU, the card and plan it needs, and what stays Perplexity's.
+- [The SPACE sandbox](https://opensourceperplexitycomputer.com/perplexity-space-sandbox): the layer Perplexity published on 15 October, and the agent layer it kept.
+- [The examples rundown](https://opensourceperplexitycomputer.com/perplexity-computer-examples): fourteen gallery apps, and the branch, diff and change request a self-hosted run leaves instead.
