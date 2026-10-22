@@ -4,7 +4,7 @@ Kortix is the open-source AI Operating System, and you can run the whole platfor
 
 ## What self-hosting runs
 
-Kortix runs as one Docker Compose stack that contains the frontend, the API, the LLM gateway and the Supabase distribution. The agent sessions do not run inside that stack. They run on a separate sandbox provider, and the default is Daytona, with Platinum and E2B also supported. You configure the provider key during setup. The [self-hosting docs](https://kortix.com/docs/host) describe the full architecture.
+Kortix runs as one Docker Compose stack that contains the frontend, the API, the LLM gateway and the Supabase distribution. The agent sessions do not run inside that stack. They run on a separate sandbox provider, and the default is Platinum, with Daytona available as a legacy fallback. You configure the provider key during setup. The [self-hosting docs](https://kortix.com/docs/host) describe the full architecture.
 
 ## Install the CLI
 
